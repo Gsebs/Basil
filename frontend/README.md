@@ -2,7 +2,7 @@
 
 This is the frontend for **Basil**, an AI-native, cloud-optimized vector database. The UI is built using modern developer tooling with performance, flexibility, and developer experience in mind.
 
-## ✨ Tech Stack
+## Tech Stack
 
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
